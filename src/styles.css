@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 50%;
+    margin-left: 350px;
+  }
+  .board {
+    margin: 30px;
+  }
+  .reset {
+    margin-top: 30px;
+  }
